@@ -1,0 +1,9 @@
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio57\WinAppEjercicio57\bin\Debug\WinAppEjercicio57.exe.config
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio57\WinAppEjercicio57\bin\Debug\WinAppEjercicio57.exe
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio57\WinAppEjercicio57\bin\Debug\WinAppEjercicio57.pdb
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio57\WinAppEjercicio57\obj\Debug\WinAppEjercicio57.Properties.Resources.resources
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio57\WinAppEjercicio57\obj\Debug\WinAppEjercicio57.csproj.GenerateResource.cache
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio57\WinAppEjercicio57\obj\Debug\WinAppEjercicio57.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio57\WinAppEjercicio57\obj\Debug\WinAppEjercicio57.exe
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio57\WinAppEjercicio57\obj\Debug\WinAppEjercicio57.pdb
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio57\WinAppEjercicio57\obj\Debug\WinAppEjercicio57.FormCincuentaYSiete.resources

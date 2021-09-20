@@ -1,0 +1,10 @@
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio28\WinAppEjercicio28\bin\Debug\WinAppEjercicio28.exe.config
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio28\WinAppEjercicio28\bin\Debug\WinAppEjercicio28.exe
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio28\WinAppEjercicio28\bin\Debug\WinAppEjercicio28.pdb
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio28\WinAppEjercicio28\obj\Debug\WinAppEjercicio28.Form1.resources
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio28\WinAppEjercicio28\obj\Debug\WinAppEjercicio28.Properties.Resources.resources
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio28\WinAppEjercicio28\obj\Debug\WinAppEjercicio28.csproj.GenerateResource.cache
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio28\WinAppEjercicio28\obj\Debug\WinAppEjercicio28.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio28\WinAppEjercicio28\obj\Debug\WinAppEjercicio28.exe
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio28\WinAppEjercicio28\obj\Debug\WinAppEjercicio28.pdb
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio28\WinAppEjercicio28\obj\Debug\WinAppEjercicio28.csproj.AssemblyReference.cache

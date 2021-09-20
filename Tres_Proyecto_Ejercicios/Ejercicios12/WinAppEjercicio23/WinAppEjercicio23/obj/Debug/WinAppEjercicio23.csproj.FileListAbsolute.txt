@@ -1,0 +1,9 @@
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio23\WinAppEjercicio23\bin\Debug\WinAppEjercicio23.exe.config
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio23\WinAppEjercicio23\bin\Debug\WinAppEjercicio23.exe
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio23\WinAppEjercicio23\bin\Debug\WinAppEjercicio23.pdb
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio23\WinAppEjercicio23\obj\Debug\WinAppEjercicio23.FormVeinteYtres.resources
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio23\WinAppEjercicio23\obj\Debug\WinAppEjercicio23.Properties.Resources.resources
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio23\WinAppEjercicio23\obj\Debug\WinAppEjercicio23.csproj.GenerateResource.cache
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio23\WinAppEjercicio23\obj\Debug\WinAppEjercicio23.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio23\WinAppEjercicio23\obj\Debug\WinAppEjercicio23.exe
+D:\Programacion\Proyectos C#\PROYECTO ESPOCH\Tres_Proyecto_Ejercicios\Tres_Proyecto_Ejercicios\Ejercicios12\WinAppEjercicio23\WinAppEjercicio23\obj\Debug\WinAppEjercicio23.pdb

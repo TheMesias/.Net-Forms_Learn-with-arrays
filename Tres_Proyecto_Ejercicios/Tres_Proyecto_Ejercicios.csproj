@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DF7E5086-92B2-44E1-9ACE-3856FAE793BA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Tres_Proyecto_Ejercicios</RootNamespace>
+    <AssemblyName>Tres_Proyecto_Ejercicios</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio13\WinAppEjercicio13\WinAppEjercicio13.csproj">
+      <Project>{7ed6012e-c49d-4bc1-bb00-26fd5de64c82}</Project>
+      <Name>WinAppEjercicio13</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio18\WinAppEjercicio18\WinAppEjercicio18.csproj">
+      <Project>{f39175ff-f473-4e94-ab6e-821987c994fa}</Project>
+      <Name>WinAppEjercicio18</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio23\WinAppEjercicio23\WinAppEjercicio23.csproj">
+      <Project>{42cca812-0c80-42e9-b2a5-b9ed009a021e}</Project>
+      <Name>WinAppEjercicio23</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio28\WinAppEjercicio28\WinAppEjercicio28.csproj">
+      <Project>{2109748f-5252-4fd0-b13e-7eb4514623ca}</Project>
+      <Name>WinAppEjercicio28</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio33\WinAppEjercicio33\WinAppEjercicio33.csproj">
+      <Project>{415ce3a1-88c8-48aa-bb3c-323eb2481c4b}</Project>
+      <Name>WinAppEjercicio33</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio38\WinAppEjercicio38\WinAppEjercicio38.csproj">
+      <Project>{7611dfea-b1e5-4a4c-845a-f4c4857a1942}</Project>
+      <Name>WinAppEjercicio38</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio3\WinAppEjercicio3\WinAppEjercicio3.csproj">
+      <Project>{1ed80ed9-c762-4fa8-a910-136bda44c696}</Project>
+      <Name>WinAppEjercicio3</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio42\WinAppEjercicio42\WinAppEjercicio42.csproj">
+      <Project>{628895ed-f31d-4999-9206-4d2c4793198e}</Project>
+      <Name>WinAppEjercicio42</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio47\WinAppEjercicio47\WinAppEjercicio47.csproj">
+      <Project>{e4dc20da-1cd1-4e1f-a864-837bf4dadf90}</Project>
+      <Name>WinAppEjercicio47</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio52\WinAppEjercicio52\WinAppEjercicio52.csproj">
+      <Project>{00f80ee7-9f30-4906-ac9e-79965da84968}</Project>
+      <Name>WinAppEjercicio52</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio57\WinAppEjercicio57\WinAppEjercicio57.csproj">
+      <Project>{cfc10b03-af3e-4724-8f5b-fee0a165b6b2}</Project>
+      <Name>WinAppEjercicio57</Name>
+    </ProjectReference>
+    <ProjectReference Include="Ejercicios12\WinAppEjercicio8\WinAppEjercicio8\WinAppEjercicio8.csproj">
+      <Project>{8cf72bd2-52ae-4417-aa59-cb65777c4e0f}</Project>
+      <Name>WinAppEjercicio8</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
